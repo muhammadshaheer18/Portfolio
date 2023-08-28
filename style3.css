@@ -1,0 +1,20 @@
+body{
+    background-color: #213555
+}
+legend{
+    color: #213555;   
+}
+.container{
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 2%;
+}
+.navbar {
+    background-color: #f3f3f3;
+    color: white;
+  }
+  #navi {
+    background-color: #213555;
+    color: #f5efe7;
+    font-family: "Libre Baskerville", serif;
+  }
